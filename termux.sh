@@ -14,8 +14,12 @@ trap '' 2
 echo -e "   
     \033[31;1mTelegram ID : \033[36m @ID_ABOL_HACKER" ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                        
 echo
-echo -e "       \e[31;1mTelegram ID : \033[36m @ID_ABOL_HACKER" | pv -qL 10                                        
+echo -e "       \e[31;1mTelegram ID : \033[36m @ID_ABOL_HACKER" | pv -qL 13                                        
 sleep 3
+clear
+cd $HOME
+cd ABOLHACKER
+bash banr.sh
 clear
 cd $HOME 
 echo -e "\033[34m
