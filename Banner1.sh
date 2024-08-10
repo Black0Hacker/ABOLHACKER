@@ -1,10 +1,11 @@
+#Ski=@Kos-Nanat
 clear
 echo
-echo -e "\033[35mWritten by \033[31mABOL \033[34mHacker" | pv -qL 15
+echo -e "Written by ABOL Hacker" |toilet -f mono12 |lolcat
 echo
-read -p $'\033[1m\033[32m  Your \033[32mShell \033[32mName\033[31m: \033[33m\033[1m ' names
+read -p $'\033[1m\033[44m  Your \033[44mShell \033[41mName\033[40m: \033[33m\033[1m ' names
 echo
-echo -e "\033[36mClose\033[35m and reopen  \033[31mTermux" | pv -qL 15
+echo -e "\033[40m\033[36mClose\033[35m and reopen  \033[31mTermux"
 cd                                                   
 cd ..                                               
 cd usr/etc                                             
@@ -13,10 +14,27 @@ cat <<LOGIN>bash.bashrc
 clear
 trap '' 2                                          
 echo -e "   
- \033[31m   Telegram ID :  \033[36m@ID_ABOL_HACKER"⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                        
+    \033[31;1mTelegram ID : \033[36m @ID_ABOL_HACKER" ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                        
 echo
-echo -e "  \033[31m    Telegram ID :  \033[36m@ID_ABOL_HACKER" |pv -qL 10                             
-sleep 3
+echo -e "
+
+     \e[31;1mTelegram ID : \033[36m @ID_ABOL_HACKER
+
+     \e[31;1mTelegram ID : \033[36m @ID_ABOL_HACKER
+
+     \e[31;1mTelegram ID : \033[36m @ID_ABOL_HACKER
+
+     \e[31;1mTelegram ID : \033[36m @ID_ABOL_HACKER
+
+      \e[31;1mTelegram ID : \033[36m @ID_ABOL_HACKER
+
+     \e[31;1mTelegram ID : \033[36m @ID_ABOL_HACKER
+
+     \e[31;1mTelegram ID : \033[36m @ID_ABOL_HACKER
+   
+  \e[31;1mTelegram ID : \033[36m @ID_ABOL_HACKER
+    
+ \e[31;1mTelegram ID : \033[36m @ID_ABOL_HACKER" |pv -qL 90                                  
 clear
 cd $HOME 
 echo -e "
@@ -45,32 +63,14 @@ echo -e "
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣶⡾⠛⠀⠀⠀⢠⣍⣙⠘⠃⠿⠹⠇⠿⢸⠇⠧⠻⠘⠃⣉⣨⣤⠀⠀⠈⠻⢷⣶⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⢿⣿⣼⣧⣿⣶⣦⣶⢰⣆⣶⢺⡏⣿⣸⣇⣿⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠘⠃⠿⠻⡟⣿⢿⡿⢿⡇⢿⠸⠗⠛⠉⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀" | pv -qL 4000
-echo -e  "\e[1m\e[34m
-─────────────────────────────────────────────────────────────────────────────────────────────           
-───────────────────────────────────────────────────────────────────────────────────────────── 
-.
-─────────────────────────────────────────────────────────────────────────────────────────────" |lolcat
+echo -e  $"$names" |toilet |lolcat
 echo 
 PS1='\033[1m\[\e[31m\]\033[1m┌─[\[\e[33m\]\T\[\e[31m\]\033[1m]─────\033[1m\e[1;98m\[[\033[1m\033[34;1m$names\033[31m]\033[1m\e[31m\033[1m───[\033[32m\#\033[31m]\033[30m\nH A C K E R\n\033[1m\e[31m\033[1m└─[\[\e[31m\[\e[1;32m\W\[\e[1m\033[31m]\033[1m────\033[34m╼ \033[32m❯\033[37m❯\033[31m❯\e[1;32m\033[1m '
 << comment
-shopt -s autocd
-shopt -s cdspell
-shopt -s checkhash
-shopt -s checkwinsize
-shopt -s compat31
-shopt -s compat32
-shopt -s compat40
-shopt -s compat41
-shopt -s no_empty_cmd_completion
-shopt -s histappend
-shopt -s dirspell
-shopt -s direxpand
-shopt -s compat43
-shopt -s compat32
-shopt -s lithist
 comment
 cd $HOME
 cd
 trap 2
 LOGIN
 echo 
+#Ski=@Kos-Nanat
