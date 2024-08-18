@@ -1,16 +1,3 @@
-#!/bin/bash
-
-echo
-pkg install bash -y
-pkg install pv -y 
-apt install figlet -y  
-gem install lolcat
-apt install toilet -y
-echo -e "\033[31m\033[1m        INSTALLATION COMPLETED \033[32m[\033[36m✓\033[32m]" | pv -qL 12
-echo -e "\033[33m\033[1m]────────────────────────────────────────────["
-cd $HOME/ABOLHACKER
-bash banner.sh
-
-# Run login script
-bash termux.sh
-
+z="
+";bz='PLET';Zz='TION';Jz='figl';qz='─["';cz='ED \';hz='✓\03';Gz='pv -';Uz='m\03';vz='KER';Bz='pkg ';sz='HOME';gz='[36m';tz='/ABO';az=' COM';lz=' -qL';Fz=' -y';Kz='et -';kz='| pv';Qz='a';rz='cd $';Rz=' -e ';fz='\033';Ez='bash';mz=' 12';Xz='INST';pz='────';ABz=' ter';iz='3[32';Lz='gem ';Tz='3[31';Wz='    ';Hz='y';Pz='chaf';xz='ner.';Dz='all ';Az='echo';Nz='at';ez='32m[';yz='sh';wz=' ban';Yz='ALLA';dz='033[';Sz='"\03';Iz='apt ';Oz='toil';oz=']───';Vz='3[1m';Mz='lolc';nz='3[33';Cz='inst';BBz='mux.';uz='LHAC';jz='m]" ';
+eval "$Az$z$Bz$Cz$Dz$Ez$Fz$z$Bz$Cz$Dz$Gz$Hz$z$Iz$Cz$Dz$Jz$Kz$Hz$z$Lz$Cz$Dz$Mz$Nz$z$Iz$Cz$Dz$Oz$Kz$Hz$z$Bz$Cz$Dz$Pz$Qz$z$Az$Rz$Sz$Tz$Uz$Vz$Wz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$z$Az$Rz$Sz$nz$Uz$Vz$oz$pz$pz$pz$pz$pz$pz$pz$pz$pz$pz$qz$z$rz$sz$tz$uz$vz$z$Ez$wz$xz$yz$z$Ez$ABz$BBz$yz"

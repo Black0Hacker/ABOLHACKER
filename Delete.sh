@@ -1,19 +1,3 @@
-folder_remove() {
-cd $HOME
-}
-install() {
-echo "if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then>         command_not_found_handle() {
-/data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
-}
-fi
-PS1='\$ '" > /data/data/com.termux/files/usr/etc/zshrc
-echo "if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
-command_not_found_handle() {
-/data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
-}
-fi
-PS1='\033[1m\[\e[31m\]\033[1m┌─[\[\e[33m\]\T\[\e[31m\]\033[1m]─────\033[1m\e[1;98m\[\033[1m\e[31m\033[1m───[\033[32m\#\033[31m]\033[31m\n|\n\033[1m\e[31m\033[1m└─[\[\e[31m\]\e[1;32m\W\[\e[1m\033[31m]\033[1m────╼ \033[32m❯\033[37m❯\033[31m❯\e[1;32m\033[1m '" > /data/data/com.termux/files/usr/etc/bash.bashrc
-}
-folder_remove
-install
-folder_remove
+z="
+";Sz='.ter';Gz='HOME';Kz=') {';DCz='──╼ ';RBz='/etc';LCz='" > ';IBz='PS1=';ECz='❯\03';kBz='\033';Zz='rmux';HBz='fi';ZBz='\]\0';NCz='bash';az='mand';NBz='com.';wBz='[\e[';BCz='1m\0';hBz='1m\e';Rz='/com';tz='x/fi';vz='usr/';gBz='033[';mz='ndle';QBz='/usr';oz='/dat';sz='ermu';eBz='m]──';ACz='m\W\';BBz='omma';Hz='}';Lz='echo';GCz='m❯\0';xz='xec/';Cz='emov';iz='and_';sBz='1m]\';xBz=']\e[';lBz='[1m\';Yz='c/te';lz='d_ha';Ez='{';Bz='er_r';nz='() {';PBz='iles';GBz='"';bz='-not';Dz='e() ';uBz='n|\n';CBz='nd-n';TBz='rc';cBz='[33m';Fz='cd $';MCz='etc/';ICz='e[1;';dz='nd ]';kz='foun';rz='om.t';PCz='hrc';WBz='3[1m';pBz='[32m';Qz='data';JCz='32m\';Xz='bexe';Mz=' "if';VBz=''\''\03';Pz='ata/';qBz='\#\0';jz='not_';rBz='33[3';Tz='mux/';Jz='all(';qz='ta/c';oBz='───[';ABz='ux/c';jBz='8m\[';aBz='33[1';JBz=''\''\$ ';Az='fold';CCz='1m──';bBz='m┌─[';MBz='ta/d';Uz='file';DBz='ot-f';UBz='en';uz='les/';hz='comm';gz='    ';OBz='ux/f';HCz='1m❯\';Iz='inst';Wz='r/li';SBz='/zsh';fBz='───\';yBz='1;32';fz='en> ';OCz='.bas';pz='a/da';tBz='31m\';EBz='ound';wz='libe';dBz='\]\T';LBz=' /da';FBz=' "$1';XBz='\[\e';QCz='e';vBz='└─[\';cz='-fou';YBz='[31m';iBz='[1;9';Oz='x /d';KCz='1m '\''';nBz='m\03';mBz='e[31';Vz='s/us';yz='term';Nz=' [ -';ez='; th';KBz=''\''" >';RCz='all';FCz='3[37';
+eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$z$Hz$z$Iz$Jz$Kz$z$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$Rz$az$bz$cz$dz$ez$fz$gz$gz$hz$iz$jz$kz$lz$mz$nz$z$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$z$Hz$z$HBz$z$IBz$JBz$KBz$LBz$MBz$Pz$NBz$yz$OBz$PBz$QBz$RBz$SBz$TBz$z$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$Rz$az$bz$cz$dz$ez$UBz$z$hz$iz$jz$kz$lz$mz$nz$z$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$z$Hz$z$HBz$z$IBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$XBz$cBz$dBz$XBz$YBz$ZBz$aBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$WBz$oBz$kBz$pBz$qBz$rBz$sBz$gBz$tBz$uBz$kBz$lBz$mBz$nBz$WBz$vBz$wBz$tBz$xBz$yBz$ACz$wBz$BCz$rBz$sBz$gBz$CCz$DCz$kBz$pBz$ECz$FCz$GCz$rBz$HCz$ICz$JCz$gBz$KCz$LCz$oz$pz$qz$rz$sz$tz$uz$vz$MCz$NCz$OCz$PCz$z$Hz$z$Az$Bz$Cz$QCz$z$Iz$RCz$z$Az$Bz$Cz$QCz"
